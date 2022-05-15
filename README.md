@@ -1,4 +1,4 @@
-<h1 align=center><img src= "https://user-images.githubusercontent.com/70858557/123503767-9c30ed00-d672-11eb-8bfb-c7806b17fbdc.png" height="70px" width="85px"> ModLily <img src= "https://user-images.githubusercontent.com/70858557/123503696-2b89d080-d672-11eb-83b0-268273c0c247.png" height="60px" width="80px"> </h1> <h4 align=center>A simple flutter application where you can buy your favorites products 😜</h4>
+<h1 align=center><img src= "https://user-images.githubusercontent.com/70858557/123503767-9c30ed00-d672-11eb-8bfb-c7806b17fbdc.png" height="70px" width="85px"> ModLily <img src= "https://user-images.githubusercontent.com/70858557/123503696-2b89d080-d672-11eb-83b0-268273c0c247.png" height="60px" width="80px"> </h1> <h4 align=center>A simple flutter application where you can buy your favorites product 😜</h4>
 <br><br>
 
 <h1 align=center> Application Preview ▶ </h1>

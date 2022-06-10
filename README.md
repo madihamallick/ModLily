@@ -1,4 +1,4 @@
-<h1 align=center> ModLily  </h1> <h4 align=center>A simple flutter application where you can buy your favorite product 😜</h4>
+<h1 align=center> ModLily  </h1> <h4 align=center>A simple flutter application where you can buy your favorite products 😜</h4>
 <br><br><br>
 
 <h1 align=center> Preview ▶ </h1>
